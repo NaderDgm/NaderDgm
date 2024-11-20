@@ -1,1 +1,65 @@
-
+<!DOCTYPE html>
+<html>
+   <head>
+    <style>
+        body{
+            background: black;
+            color: whitesmoke;
+        }
+    </style>
+      <title>Text Input</title>
+<body>
+    <fieldset>
+        <legend>Vos Coordonnées</legend>
+        <form>
+             Nom :
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="30"> <br>
+             <br>Prenom :
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="30"><br>
+           <br>Date de Naissance: 
+           &nbsp;&nbsp;&nbsp;<input type="date"> <br>
+            <br>  Mail : 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="email" size="30" > <br>
+            <br>Votre Site :
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="ulr"  size="30"><br>
+            <br>Code :
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="password" size="30"><br>
+            <br>Genre :
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="gender" size="30" >
+          <label for="radio">Masculin 
+            <input type="radio" name="gender"  size="30" >
+            <label for="radio">Feminin <br>
+             <br>Pays : 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="select">
+            <option value="da"> Votre Pays </option>
+            <option value="da"> Qualifiant</option>
+            <option value="da"> Technecien</option>
+            <option value="da"> Technecien Specialise</option>
+           </select>
+        </form>
+        </fieldset>
+        <fieldset>
+            <legend>Vos gouts</legend>
+            <form>
+                <input type="checkbox" id="fname" name="fname" size="10">
+                <label for="fname">Tarte aux fraise a la creme d'amandes</label>
+                <br> <input type="checkbox" id="fname" name="fname" size="10">
+                <label for="fname">Tarte aux prunes</label>
+                <br><input type="checkbox" id="fname" name="fname" size="10">
+                <label for="fname">Tarte rustique aux mirabelles de Lorraine. noisettes et miel</label><br>
+                <textarea rows="5" cols="30"> Decrivez vos gouts en details </textarea>
+        </fieldset>
+        <fieldset>
+            <legend>Envoyez nous votre photo</legend>
+            <form>
+                <input type="file" >
+                <br>
+                <br>
+                <input type="reset" value="Effacer">
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               <input type="submit" value="Envoyez">
+            </form>
+        </fieldset>
+    </body>
+    </head>
+</html>
