@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=NaderDgm&color=blue)
 Hi there 👋, I’m Nader Doghmi
 
 I’m a Full Stack student at CMC, currently in my 2nd year of Digital Development (graduation expected in 2026). I’m passionate about building web and mobile applications and continuously expanding my skills through learning and hands-on projects.
@@ -25,3 +24,6 @@ Collaborating on projects using Git and GitHub workflows
 Full Stack web and mobile integration
 Advanced UI/UX and performance optimization
 Improving my practical skills through real-world projects
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaderDgm&color=blue)
