@@ -1,29 +1,31 @@
-Hi there 👋, I’m Nader Doghmi
+Hi there 👋, I’m Nader Doghmi.
 
-I’m a Full Stack student at CMC, currently in my 2nd year of Digital Development (graduation expected in 2026). I’m passionate about building web and mobile applications and continuously expanding my skills through learning and hands-on projects.
+I’m a Full Stack Developer with a background in Digital Development, having successfully completed my studies at CMC Rabat as a Technicien Spécialisé in Digital Development, specializing in Full Stack development.
+
+I’m passionate about building modern, responsive web applications and continuously improving my technical skills through hands-on projects and real-world experience.
 
 🔧 Technologies & Skills
 
 Frontend: HTML5, CSS3, Bootstrap, JavaScript, React.js
-Backend: PHP, Python, Laravel, OOP
+Backend: PHP, Laravel, Python, OOP
 Databases: SQL, MySQL, MongoDB, Database Design
-Mobile Development: Kotlin, XML (Android)
-Python GUI: Tkinter
-Version Control: Git, GitHub
+Tools & Version Control: Git, GitHub, GitLab
 Methodologies: Agile, Scrum
+Additional: Kotlin, XML, Android, Tkinter
 
-💻 Projects & Interests
+💻 Projects & Experience
 
-Developing responsive web applications with modern UI/UX
-Building dynamic backend applications using PHP, MySQL, and Python
-Creating mobile app prototypes with Kotlin and XML
-Collaborating on projects using Git and GitHub workflows
+• Developing responsive and user-friendly web applications
+• Building backend applications with Laravel, PHP, Python, and MySQL
+• Creating full-stack projects using modern web technologies
+• Working with Git and GitHub/GitLab workflows
+• Gaining practical experience through academic and professional projects
 
-🌱 Currently Learning
+🌱 Currently
 
-Full Stack web and mobile integration
-Advanced UI/UX and performance optimization
-Improving my practical skills through real-world projects
+I’m continuing to develop my skills as a Full Stack Developer while pursuing further studies toward a Bac+3 / Licence and looking for opportunities to gain more professional experience and contribute to real-world projects.
+
+🚀 My goal is to keep learning, build useful applications, and grow as a professional Full Stack Developer.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaderDgm&color=blue)
