@@ -26,6 +26,7 @@ Additional: Kotlin, XML, Android, Tkinter
 I’m continuing to develop my skills as a Full Stack Developer while pursuing further studies toward a Bac+3 / Licence and looking for opportunities to gain more professional experience and contribute to real-world projects.
 
 🚀 My goal is to keep learning, build useful applications, and grow as a professional Full Stack Developer.
+https://naderdgm.github.io/naderdoghmi.github.io/
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaderDgm&color=blue)
